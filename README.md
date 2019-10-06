@@ -47,5 +47,14 @@ perusahaan tersebut.</li>
 
 
 
+<h4><li>Gambarkan detail topologi dari jaringan yang anda buat lengkap dengan keterangan IP, Interface,
+dan Device Jaringan yang digunakan. Berikan penjelasan dan analisis terhadap topologi yang anda
+buat.</li></h4>
+<center>
+<h5>Jawaban</h5>
+<img src="https://github.com/hafidzilkhairi/ServerDevelopment/blob/task/screenshots/TopologiJaringan.jpg?raw=true" />
+<p>Topologi jaringan dari proses bisnis soal No. 1</p>
+</center>
+
 
 </ol>
