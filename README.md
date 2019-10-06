@@ -57,4 +57,21 @@ buat.</li></h4>
 </center>
 
 
+<h4><li>Hasil Implementasi dari Web Server, FTP Server, Mail Server, Database Server, dan Server Monitoring</li></h4>
+<center>
+<h5>Jawaban</h5>
+<img src="https://github.com/hafidzilkhairi/ServerDevelopment/blob/task/screenshots/WebServerTest.png?raw=true" />
+<p>Hasil implementasi Web Server</p>
+<img src="https://github.com/hafidzilkhairi/ServerDevelopment/blob/task/screenshots/DatabaseServerTest.png?raw=true" />
+<p>Hasil implementasi Database Server</p>
+<img src="https://github.com/hafidzilkhairi/ServerDevelopment/blob/task/screenshots/FTPTest.png?raw=true" />
+<p>Hasil implementasi FTP Server</p>
+
+<img src="https://github.com/hafidzilkhairi/ServerDevelodsfspment/blob/task/screenshots/FTPTest.png?raw=true" />
+<p>Maaf seharusnya disini ada Mail Server tetapi lupa discreenshot dan OS sering direinstall, jadinya hilang</p>
+<img src="https://github.com/hafidzilkhairi/ServerDevelopment/blob/task/screenshots/ServerMonitoringTest.png?raw=true" />
+<p>Hasil implementasi Server Monitoring</p>
+</center>
+
+
 </ol>
